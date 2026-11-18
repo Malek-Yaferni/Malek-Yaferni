@@ -223,7 +223,6 @@
 <text x="64.0" y="92.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.6">INDUSTRIAL COMPUTER ENGINEERING</text>
 <text x="64.0" y="168.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" text-anchor="start">Malek Yaferni</text>
 <line x1="64.0" y1="196.0" x2="214.0" y2="196.0" stroke="#C5A77D" stroke-width="1.25"/>
-<text x="64.0" y="238.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start">Energy Systems Supervision</text>
 <text x="64.0" y="274.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Artificial Intelligence   ·   Data Science</text>
 <text x="64.0" y="328.0" fill="#D8C6AC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Building intelligent solutions, one project at a time.</text>
 <circle cx="64.0" cy="392.0" r="3.0" fill="#B8875A"/>
