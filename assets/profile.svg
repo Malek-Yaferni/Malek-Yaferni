@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="4296" viewBox="0 0 1040 4296" fill="none" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="4614" viewBox="0 0 1040 4614" fill="none" role="img">
 <title>Malek Yaferni — Industrial Computer Engineering, AI and Data Science</title>
-<rect x="0" y="0" width="1040" height="4296" fill="#F3EBDD"/>
+<rect x="0" y="0" width="1040" height="4614" fill="#F3EBDD"/>
 <rect x="28.0" y="24.0" width="984.0" height="468.0" rx="30.0" fill="#241A16"/>
 <rect x="38.0" y="34.0" width="964.0" height="448.0" rx="22.0" fill="none" stroke="#795C46" stroke-width="1" opacity="0.55"/>
 <circle cx="760.0" cy="70.0" r="0.8" fill="#C5A77D" opacity="0.28"/>
@@ -223,6 +223,7 @@
 <text x="64.0" y="92.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.6">INDUSTRIAL COMPUTER ENGINEERING</text>
 <text x="64.0" y="168.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" text-anchor="start">Malek Yaferni</text>
 <line x1="64.0" y1="196.0" x2="214.0" y2="196.0" stroke="#C5A77D" stroke-width="1.25"/>
+<text x="64.0" y="238.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start">Energy Systems Supervision</text>
 <text x="64.0" y="274.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Artificial Intelligence   ·   Data Science</text>
 <text x="64.0" y="328.0" fill="#D8C6AC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Building intelligent solutions, one project at a time.</text>
 <circle cx="64.0" cy="392.0" r="3.0" fill="#B8875A"/>
@@ -270,7 +271,8 @@
 <text x="64.0" y="700.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.8">PROFILE</text>
 <text x="64.0" y="738.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Hello, I'm Malek</text>
 <text x="64.0" y="782.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Final-year Industrial Computer Engineering student</text>
-<text x="64.0" y="808.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">at ENET'Com, Sfax</text>
+<text x="64.0" y="808.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">at ENET'Com, Sfax, specializing in Energy Systems</text>
+<text x="64.0" y="834.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Supervision.</text>
 <text x="64.0" y="876.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">I turn operational problems into intelligent systems:</text>
 <text x="64.0" y="902.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">agents, retrieval, computer vision, and the data</text>
 <text x="64.0" y="928.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">pipelines underneath them.</text>
@@ -452,94 +454,105 @@
 <rect x="529.0" y="2718.0" width="475.0" height="300.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
 <rect x="553.0" y="2746.0" width="2.0" height="16.0" rx="0.0" fill="#B8875A"/>
 <text x="565.0" y="2759.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="1.4">06</text>
-<text x="607.0" y="2759.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="1.8">INFRASTRUCTURE</text>
-<text x="553.0" y="2800.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Tunisia Telecom</text>
-<text x="553.0" y="2830.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Highly available directory services</text>
-<text x="553.0" y="2874.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Active Directory for enterprise operations.</text>
-<text x="553.0" y="2896.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">DNS, Group Policy, Hyper-V, and PowerShell.</text>
+<text x="607.0" y="2759.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="1.8">INFORMATION RETRIEVAL</text>
+<text x="553.0" y="2800.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Scientific Literature Search</text>
+<text x="553.0" y="2830.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Semantic search over 5,183 scientific abstracts</text>
+<text x="553.0" y="2874.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Compared dense, BM25, and hybrid RRF retrieval.</text>
+<text x="553.0" y="2896.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Benchmarked MiniLM, BGE-small, and E5-small.</text>
+<text x="553.0" y="2938.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start">BGE-small: nDCG@10 0.746 vs BM25 0.647 (+15%)</text>
 <line x1="553.0" y1="2960.0" x2="980.0" y2="2960.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="553.0" y="2988.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Windows Server  ·  Active Directory  ·  Hyper-V</text>
-<rect x="36.0" y="3070.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
-<text x="54.0" y="3086.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">04</text>
-<text x="54.0" y="3122.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Experience</text>
-<line x1="277.6" y1="3114.0" x2="1004.0" y2="3114.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="54.0" y="3150.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Engineering internships, from intelligent systems to infrastructure.</text>
-<rect x="36.0" y="3182.0" width="475.0" height="248.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
-<rect x="36.0" y="3182.0" width="4.0" height="248.0" rx="2.0" fill="#B8875A"/>
-<text x="64.0" y="3222.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">ENGINEERING INTERNSHIP</text>
-<text x="64.0" y="3260.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">Talan Tunisie Consulting</text>
-<text x="64.0" y="3290.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">July 2026  —  August 2026</text>
-<text x="64.0" y="3332.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Contributed to AgriMent during SummerCamp 2026.</text>
-<text x="64.0" y="3356.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Multi-agent and RAG workflows, in a mixed team.</text>
-<text x="64.0" y="3396.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start">Second place   ·   10 teams   ·   120+ participants</text>
-<rect x="529.0" y="3182.0" width="475.0" height="248.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
-<rect x="529.0" y="3182.0" width="4.0" height="248.0" rx="2.0" fill="#B8875A"/>
-<text x="557.0" y="3222.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">ENGINEERING INTERNSHIP</text>
-<text x="557.0" y="3260.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">Tunisia Telecom</text>
-<text x="557.0" y="3290.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">July 2025  —  August 2025</text>
-<text x="557.0" y="3332.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Highly available Active Directory infrastructure.</text>
-<text x="557.0" y="3356.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">DNS, Group Policy, Hyper-V, and PowerShell.</text>
-<text x="557.0" y="3396.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start">Enterprise directory, virtualization, automation</text>
-<rect x="36.0" y="3482.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
-<text x="54.0" y="3498.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">05</text>
-<text x="54.0" y="3534.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Education</text>
-<line x1="257.4" y1="3526.0" x2="1004.0" y2="3526.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="54.0" y="3562.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Study, certifications, and the student communities I help run.</text>
-<rect x="36.0" y="3594.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
-<text x="60.0" y="3634.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">STUDY</text>
-<text x="60.0" y="3672.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">ENET'Com</text>
-<line x1="60.0" y1="3692.0" x2="322.0" y2="3692.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="60.0" y="3730.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Sfax, Tunisia</text>
-<text x="60.0" y="3762.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Industrial Computer Engineering</text>
-<text x="60.0" y="3794.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Energy Systems Supervision</text>
-<text x="60.0" y="3826.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Final year</text>
-<rect x="365.0" y="3594.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
-<text x="389.0" y="3634.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">CERTIFICATIONS</text>
-<text x="389.0" y="3672.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">Oracle</text>
-<line x1="389.0" y1="3692.0" x2="651.0" y2="3692.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="389.0" y="3730.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Agentic AI Foundations</text>
-<text x="389.0" y="3762.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">October 2026</text>
-<text x="389.0" y="3794.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">OCI 2025 AI Foundations</text>
-<text x="389.0" y="3826.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Associate  ·  October 2025</text>
-<rect x="694.0" y="3594.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
-<text x="718.0" y="3634.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">LEADERSHIP</text>
-<text x="718.0" y="3672.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">IEEE</text>
-<line x1="718.0" y1="3692.0" x2="980.0" y2="3692.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="718.0" y="3730.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">CASS ENET'Com  ·  Webmaster</text>
-<text x="718.0" y="3762.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">January 2025 — January 2026</text>
-<text x="718.0" y="3794.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Tunisia Section  ·  TSYP 12</text>
-<text x="718.0" y="3826.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Organizing committee  ·  Dec 2024</text>
-<rect x="36.0" y="3938.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
-<text x="54.0" y="3954.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">06</text>
-<text x="54.0" y="3990.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Contact</text>
-<line x1="217.1" y1="3982.0" x2="1004.0" y2="3982.0" stroke="#D8C6AC" stroke-width="1"/>
-<text x="54.0" y="4018.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">A final-year internship, a collaboration, or a technical conversation.</text>
-<rect x="28.0" y="4050.0" width="984.0" height="210.0" rx="28.0" fill="#241A16"/>
-<line x1="54.0" y1="4078.0" x2="70.0" y2="4078.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="54.0" y1="4078.0" x2="54.0" y2="4094.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="970.0" y1="4078.0" x2="986.0" y2="4078.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="986.0" y1="4078.0" x2="986.0" y2="4094.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="54.0" y1="4232.0" x2="70.0" y2="4232.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="54.0" y1="4216.0" x2="54.0" y2="4232.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="970.0" y1="4232.0" x2="986.0" y2="4232.0" stroke="#C5A77D" stroke-width="1"/>
-<line x1="986.0" y1="4216.0" x2="986.0" y2="4232.0" stroke="#C5A77D" stroke-width="1"/>
-<text x="64.0" y="4114.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.8">LET'S CONNECT</text>
-<text x="64.0" y="4158.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Intelligent systems, built with care.</text>
-<text x="64.0" y="4198.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" text-anchor="start">malekyaferni@gmail.com</text>
-<text x="64.0" y="4226.0" fill="#D8C6AC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" text-anchor="start">Sfax, Tunisia</text>
-<circle cx="900.0" cy="4158.0" r="46.0" fill="none" stroke="#C5A77D" stroke-width="1" opacity="0.45"/>
-<circle cx="900.0" cy="4158.0" r="28.0" fill="#241A16" stroke="#C5A77D" stroke-width="1.15"/>
-<text x="900.0" y="4163.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.5">MY</text>
-<circle cx="900.0" cy="4112.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="900.0" y2="4112.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
-<circle cx="939.8" cy="4135.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="939.8" y2="4135.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
-<circle cx="939.8" cy="4181.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="939.8" y2="4181.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
-<circle cx="900.0" cy="4204.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="900.0" y2="4204.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
-<circle cx="860.2" cy="4181.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="860.2" y2="4181.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
-<circle cx="860.2" cy="4135.0" r="3.0" fill="#C5A77D"/>
-<line x1="900.0" y1="4158.0" x2="860.2" y2="4135.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<text x="553.0" y="2988.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Python  ·  Sentence Transformers  ·  FAISS  ·  BM25  ·  Streamlit</text>
+<rect x="36.0" y="3036.0" width="475.0" height="300.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<rect x="60.0" y="3064.0" width="2.0" height="16.0" rx="0.0" fill="#B8875A"/>
+<text x="72.0" y="3077.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="1.4">07</text>
+<text x="114.0" y="3077.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="1.8">INFRASTRUCTURE</text>
+<text x="60.0" y="3118.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Tunisia Telecom</text>
+<text x="60.0" y="3148.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Highly available directory services</text>
+<text x="60.0" y="3192.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Active Directory for enterprise operations.</text>
+<text x="60.0" y="3214.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">DNS, Group Policy, Hyper-V, and PowerShell.</text>
+<line x1="60.0" y1="3278.0" x2="487.0" y2="3278.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="60.0" y="3306.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Windows Server  ·  Active Directory  ·  Hyper-V</text>
+<rect x="36.0" y="3388.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
+<text x="54.0" y="3404.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">04</text>
+<text x="54.0" y="3440.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Experience</text>
+<line x1="277.6" y1="3432.0" x2="1004.0" y2="3432.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="54.0" y="3468.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Engineering internships, from intelligent systems to infrastructure.</text>
+<rect x="36.0" y="3500.0" width="475.0" height="248.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<rect x="36.0" y="3500.0" width="4.0" height="248.0" rx="2.0" fill="#B8875A"/>
+<text x="64.0" y="3540.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">ENGINEERING INTERNSHIP</text>
+<text x="64.0" y="3578.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">Talan Tunisie Consulting</text>
+<text x="64.0" y="3608.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">July 2026  —  August 2026</text>
+<text x="64.0" y="3650.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Contributed to AgriMent during SummerCamp 2026.</text>
+<text x="64.0" y="3674.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Multi-agent and RAG workflows, in a mixed team.</text>
+<text x="64.0" y="3714.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start">Second place   ·   10 teams   ·   120+ participants</text>
+<rect x="529.0" y="3500.0" width="475.0" height="248.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<rect x="529.0" y="3500.0" width="4.0" height="248.0" rx="2.0" fill="#B8875A"/>
+<text x="557.0" y="3540.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">ENGINEERING INTERNSHIP</text>
+<text x="557.0" y="3578.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">Tunisia Telecom</text>
+<text x="557.0" y="3608.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">July 2025  —  August 2025</text>
+<text x="557.0" y="3650.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">Highly available Active Directory infrastructure.</text>
+<text x="557.0" y="3674.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" text-anchor="start">DNS, Group Policy, Hyper-V, and PowerShell.</text>
+<text x="557.0" y="3714.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start">Enterprise directory, virtualization, automation</text>
+<rect x="36.0" y="3800.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
+<text x="54.0" y="3816.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">05</text>
+<text x="54.0" y="3852.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Education</text>
+<line x1="257.4" y1="3844.0" x2="1004.0" y2="3844.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="54.0" y="3880.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Study, certifications, and the student communities I help run.</text>
+<rect x="36.0" y="3912.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<text x="60.0" y="3952.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">STUDY</text>
+<text x="60.0" y="3990.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">ENET'Com</text>
+<line x1="60.0" y1="4010.0" x2="322.0" y2="4010.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="60.0" y="4048.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Sfax, Tunisia</text>
+<text x="60.0" y="4080.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Industrial Computer Engineering</text>
+<text x="60.0" y="4112.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Energy Systems Supervision</text>
+<text x="60.0" y="4144.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Final year</text>
+<rect x="365.0" y="3912.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<text x="389.0" y="3952.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">CERTIFICATIONS</text>
+<text x="389.0" y="3990.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">Oracle</text>
+<line x1="389.0" y1="4010.0" x2="651.0" y2="4010.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="389.0" y="4048.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Agentic AI Foundations</text>
+<text x="389.0" y="4080.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">October 2026</text>
+<text x="389.0" y="4112.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">OCI 2025 AI Foundations</text>
+<text x="389.0" y="4144.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Associate  ·  October 2025</text>
+<rect x="694.0" y="3912.0" width="310.0" height="292.0" rx="18.0" fill="#FAF6EF" stroke="#D8C6AC" stroke-width="1"/>
+<text x="718.0" y="3952.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" letter-spacing="2">LEADERSHIP</text>
+<text x="718.0" y="3990.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">IEEE</text>
+<line x1="718.0" y1="4010.0" x2="980.0" y2="4010.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="718.0" y="4048.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">CASS ENET'Com  ·  Webmaster</text>
+<text x="718.0" y="4080.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">January 2025 — January 2026</text>
+<text x="718.0" y="4112.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Tunisia Section  ·  TSYP 12</text>
+<text x="718.0" y="4144.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start">Organizing committee  ·  Dec 2024</text>
+<rect x="36.0" y="4256.0" width="2.0" height="48.0" rx="0.0" fill="#B8875A"/>
+<text x="54.0" y="4272.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="3.2">06</text>
+<text x="54.0" y="4308.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="start">Contact</text>
+<line x1="217.1" y1="4300.0" x2="1004.0" y2="4300.0" stroke="#D8C6AC" stroke-width="1"/>
+<text x="54.0" y="4336.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">A final-year internship, a collaboration, or a technical conversation.</text>
+<rect x="28.0" y="4368.0" width="984.0" height="210.0" rx="28.0" fill="#241A16"/>
+<line x1="54.0" y1="4396.0" x2="70.0" y2="4396.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="54.0" y1="4396.0" x2="54.0" y2="4412.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="970.0" y1="4396.0" x2="986.0" y2="4396.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="986.0" y1="4396.0" x2="986.0" y2="4412.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="54.0" y1="4550.0" x2="70.0" y2="4550.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="54.0" y1="4534.0" x2="54.0" y2="4550.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="970.0" y1="4550.0" x2="986.0" y2="4550.0" stroke="#C5A77D" stroke-width="1"/>
+<line x1="986.0" y1="4534.0" x2="986.0" y2="4550.0" stroke="#C5A77D" stroke-width="1"/>
+<text x="64.0" y="4432.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.8">LET'S CONNECT</text>
+<text x="64.0" y="4476.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Intelligent systems, built with care.</text>
+<text x="64.0" y="4516.0" fill="#C5A77D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" text-anchor="start">malekyaferni@gmail.com</text>
+<text x="64.0" y="4544.0" fill="#D8C6AC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" text-anchor="start">Sfax, Tunisia</text>
+<circle cx="900.0" cy="4476.0" r="46.0" fill="none" stroke="#C5A77D" stroke-width="1" opacity="0.45"/>
+<circle cx="900.0" cy="4476.0" r="28.0" fill="#241A16" stroke="#C5A77D" stroke-width="1.15"/>
+<text x="900.0" y="4481.0" fill="#F3EBDD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.5">MY</text>
+<circle cx="900.0" cy="4430.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="900.0" y2="4430.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<circle cx="939.8" cy="4453.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="939.8" y2="4453.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<circle cx="939.8" cy="4499.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="939.8" y2="4499.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<circle cx="900.0" cy="4522.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="900.0" y2="4522.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<circle cx="860.2" cy="4499.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="860.2" y2="4499.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
+<circle cx="860.2" cy="4453.0" r="3.0" fill="#C5A77D"/>
+<line x1="900.0" y1="4476.0" x2="860.2" y2="4453.0" stroke="#C5A77D" stroke-width="1" opacity="0.6"/>
 </svg>
