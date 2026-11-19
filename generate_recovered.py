@@ -875,10 +875,24 @@ def projects(page: Page) -> None:
             "Python  ·  Pandas  ·  Isolation Forest  ·  MCP  ·  RAG",
 
         ),
+        
+        (
+            "06",
+            "INFORMATION RETRIEVAL",
+            "Scientific Literature Search",
+            "Semantic search over 5,183 scientific abstracts",
+            (
+                "Compared dense, BM25, and hybrid RRF retrieval.",
+                "Benchmarked MiniLM, BGE-small, and E5-small.",
+            ),
+            "BGE-small: nDCG@10 0.746 vs BM25 0.647 (+15%)",
+            "Python  ·  Sentence Transformers  ·  FAISS  ·  BM25  ·  Streamlit",
+        ),
+
 
         (
 
-            "06",
+            "07",
 
             "INFRASTRUCTURE",
 
@@ -899,6 +913,7 @@ def projects(page: Page) -> None:
             "Windows Server  ·  Active Directory  ·  Hyper-V",
 
         ),
+        
 
     ]
 
