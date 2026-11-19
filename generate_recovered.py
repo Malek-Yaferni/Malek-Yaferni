@@ -8,6 +8,7 @@ Run: python generate.py
 """
 
 
+
 from __future__ import annotations
 
 
@@ -933,7 +934,8 @@ def projects(page: Page) -> None:
 
         project_card(page, x, cy, card_w, card_h, *card)
 
-    page.y = y + 3 * card_h + 2 * gap + 52
+    rows = math.ceil(len(cards) / 2)
+    page.y = y + rows * card_h + (rows - 1) * gap + 52
 
 
 def experience(page: Page) -> None:
