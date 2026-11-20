@@ -271,8 +271,7 @@
 <text x="64.0" y="700.0" fill="#795C46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="start" letter-spacing="2.8">PROFILE</text>
 <text x="64.0" y="738.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Hello, I'm Malek</text>
 <text x="64.0" y="782.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Final-year Industrial Computer Engineering student</text>
-<text x="64.0" y="808.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">at ENET'Com, Sfax, specializing in Energy Systems</text>
-<text x="64.0" y="834.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">Supervision.</text>
+<text x="64.0" y="808.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">at ENET'Com, Sfax</text>
 <text x="64.0" y="876.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">I turn operational problems into intelligent systems:</text>
 <text x="64.0" y="902.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">agents, retrieval, computer vision, and the data</text>
 <text x="64.0" y="928.0" fill="#49352A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" text-anchor="start">pipelines underneath them.</text>
@@ -309,7 +308,7 @@
 <circle cx="64.0" cy="1163.0" r="3.0" fill="#B8875A"/>
 <text x="76.0" y="1168.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">ENET'Com</text>
 <circle cx="230.0" cy="1163.0" r="3.0" fill="#B8875A"/>
-<text x="242.0" y="1168.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">Sfax, Tunisia</text>
+<text x="242.0" y="1168.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">Manouba, Tunisia</text>
 <circle cx="430.0" cy="1163.0" r="3.0" fill="#B8875A"/>
 <text x="442.0" y="1168.0" fill="#241A16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">Final year</text>
 <circle cx="600.0" cy="1163.0" r="3.0" fill="#B8875A"/>
